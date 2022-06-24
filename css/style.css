@@ -118,6 +118,8 @@ body {
     cursor: pointer;
     opacity: 0.7;
 }
+
+/*CANCELACION*/
 .canc__orden {
     color: var(--azuld);
     font-weight: 900;
